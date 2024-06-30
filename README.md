@@ -6,7 +6,7 @@ I want to learn more about the low layer because I'm still a small fish.
 # Links
 
 * GitHub: https://github.com/fumiya5863
-* Qiita: https://qiita.com/fumiyan_propro
+* Qiita: https://qiita.com/fumiyan
 
 <!--
 **fumiya5863/fumiya5863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
