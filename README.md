@@ -5,7 +5,6 @@ I want to learn more about the low layer because I'm still a small fish.
 
 # Links
 
-* GitHub: https://github.com/fumiya5863
 * Qiita: https://qiita.com/fumiyan
 
 <!--
