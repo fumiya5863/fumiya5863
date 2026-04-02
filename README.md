@@ -3,7 +3,7 @@ I want to learn more about the low layer because I'm still a small fish.
 
 # Links
 
-* Qiita: https://qiita.com/fumiyan
+* Zenn：https://zenn.dev/fumiyan
 
 <!--
 **fumiya5863/fumiya5863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
